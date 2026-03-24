@@ -21,7 +21,7 @@ const roles = [
       "KPI Analysis",
     ],
     downloadLink:
-      "https://drive.google.com/file/d/1Dba9oC1saHpfgFWGru5brm794gZg87c0/view?usp=sharing",
+      "https://drive.google.com/file/d/1Kmckl5918EHkvA95D6esv9vPsb-AG7XA/view?usp=sharing",
   },
   {
     title: "Machine Learning Engineer",
@@ -40,7 +40,7 @@ const roles = [
       "EDA",
     ],
     downloadLink:
-      "https://drive.google.com/file/d/1Dba9oC1saHpfgFWGru5brm794gZg87c0/view?usp=sharing",
+      "https://drive.google.com/file/d/1Kmckl5918EHkvA95D6esv9vPsb-AG7XA/view?usp=sharing",
   },
   {
     title: "Software + AI Developer",
@@ -59,7 +59,7 @@ const roles = [
       "App Development",
     ],
     downloadLink:
-      "https://drive.google.com/file/d/1Dba9oC1saHpfgFWGru5brm794gZg87c0/view?usp=sharing",
+      "https://drive.google.com/file/d/1Kmckl5918EHkvA95D6esv9vPsb-AG7XA/view?usp=sharing",
   },
 ];
 
